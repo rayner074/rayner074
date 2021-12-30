@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 - ⚡ fact: I am ultra Noob😌
 - 📫 How to reach me: Telegram - [@rayner74](https://telegram.me/AlbertEinstein_TG)-->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AlbertEinsteinTG&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=radica)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rayner074&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=radica)
